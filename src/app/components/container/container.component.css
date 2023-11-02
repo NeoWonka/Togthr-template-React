@@ -1,0 +1,38 @@
+:host { 
+  display: contents; 
+}
+.container-container {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.container-text {
+  color: #fff7f7;
+  height: var(--dl-size-size-small);
+  font-size: 26px;
+}
+.container-text1 {
+  left: 0px;
+  color: #ffffff;
+  width: var(--dl-size-size-xxlarge);
+  bottom: 1px;
+  height: var(--dl-size-size-medium);
+  position: absolute;
+  align-self: flex-end;
+}
+.container-video {
+  width: 320px;
+  height: 180px;
+  margin-left: 100px;
+}
+.container-video1 {
+  width: 320px;
+  height: 180px;
+  margin-left: 100px;
+}
+.container-root-class-name2 {
+  width: 100%;
+}
